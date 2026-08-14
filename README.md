@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**channabassupatil/channabassupatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Channabassu, a CSE student interested in programming, problem solving, and building things with code.
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
+- Python
+- C++
+- Computer Science fundamentals
+- Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My goal
+To become a strong software engineer by building projects, improving my problem-solving skills, and learning consistently.
+
+### 🚀 Currently focusing on
+- Python mini projects
+- Strengthening programming fundamentals
+- Learning how programmers think and solve problems
+
+---
+
+> Learning. Building. Improving. One step at a time. 🚀
